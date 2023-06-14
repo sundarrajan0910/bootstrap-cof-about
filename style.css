@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+*{  margin: 0;
+    padding: 0;
+    font-family: 'Merienda', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    
+
+}
+.about .card{
+    border: none !important;
+    
+}
+
+.about .card-title{
+   
+    font-family:    'Merienda', cursive; 
+   
+}
+.about .card-text{
+
+    font-family: 'Nunito Sans', sans-serif;
+}
+.about button{
+    color: #fff !important;
+    background-color: #be9c79 !important;
+
+}
